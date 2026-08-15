@@ -15,6 +15,9 @@
   <a href="https://github.com/darshu6352">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.facebook.com/share/19E4Gepb7C/?mibextid=wwXIfr">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+</a>
 </p>
 
 # 💻 Tech Stack:
